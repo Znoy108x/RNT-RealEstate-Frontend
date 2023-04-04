@@ -6,17 +6,27 @@ It has only frontend part , where all the avalibale hotel , room , guest house s
 ## Libraries / Frameworks🔥
 - React Native
 - Redux
-- Taikwind Css
+- Taiwind Css
 
 ## How To Run ...🏃...
 - Download and Unzip The File
-- #<a href="https://docs.expo.dev/get-started/installation/">Install Expo Cli</a>
+- <a href="https://docs.expo.dev/get-started/installation/">Install Expo Cli</a>
 ```python
       cd <Folder_Name>
       npm i
       #after that open expo app and the project will run 
 ```
 
+## Project Demo
+
+![image](https://raw.githubusercontent.com/Znoy108x/RNT-RealEstate-Frontend/main/assets/real_estate_img.png)
+
+<div align="center">
+      
+https://user-images.githubusercontent.com/75539409/229755541-a1de7e76-dbee-4d4c-bfbd-c23ced578e4b.mp4
+</div>
+<dl><dd><dl><dd><dl><dd><dl><dd>
+</dd></dl></dd></dl></dd></dl></dd></dl>
 
 
 <pre>
