@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "2_Guess_Game",
-    "slug": "2_Guess_Game",
+    "name": "Homie app",
+    "slug": "Homieapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
