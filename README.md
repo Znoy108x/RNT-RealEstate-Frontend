@@ -19,7 +19,7 @@ Homie is a real estate app . It has only frontend part , where all the avalibale
 
 ## Project Demo
 
-![image](https://raw.githubusercontent.com/Znoy108x/RNT-RealEstate-Frontend/main/assets/real_estate_img.png)
+![real_estate_img](https://user-images.githubusercontent.com/75539409/229764631-5d140e10-4f8d-4da7-ae81-a688bad56b6d.png)
 
 <div align="center">
       
