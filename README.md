@@ -1,7 +1,7 @@
-# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project Real Estate App
+# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a>, I made this project Homie
       
-## Usage 🏢
-It has only frontend part , where all the avalibale hotel , room , guest house services are registered and the customer can book those services .
+## About 🏢
+Homie is a real estate app . It has only frontend part , where all the avalibale hotel , room , guest house services are registered and the customer can book those services .
 
 ## Libraries / Frameworks🔥
 - React Native
